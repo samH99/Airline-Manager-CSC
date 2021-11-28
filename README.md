@@ -1,1 +1,1 @@
-# Airline-Manager---CSC316
+# Airline-Manager-CSC
